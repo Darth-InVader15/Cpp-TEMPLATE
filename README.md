@@ -1,2 +1,2 @@
-# Cpp-TEMPLATE
+# My Cpp-Templates
 These are templates of some commonly used data structures and algos. I'll keep updating...
