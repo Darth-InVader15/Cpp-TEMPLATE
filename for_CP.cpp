@@ -5,7 +5,8 @@ using namespace std;
 #define pb push_back
 #define fast_cin()                    \
 	ios_base::sync_with_stdio(false); \
-	cin.tie(NULL);
+	cin.tie(NULL);			\
+	cout.tie(NULL);
 // FEEL IT STILL
 // FLY ON
 
