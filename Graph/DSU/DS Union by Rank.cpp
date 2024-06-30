@@ -5,7 +5,7 @@ class DisjointSet {
         parent.resize(n+1);
         rank.resize(n+1,0);
 
-        for(int i=0;i<n;i++)    parent[i] = i; //initially sab khud ka parent hai ie no edges
+        for(int i=0;i<=n;i++)    parent[i] = i; //initially sab khud ka parent hai ie no edges
     }
 
     int findUltimateParent(int node)
